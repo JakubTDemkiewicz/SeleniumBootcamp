@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Full regression">
+
+    <test name="All Tests from package tests">
+        <packages>
+            <package name="tests"/>
+        </packages>
+    </test>
+
+</suite>
